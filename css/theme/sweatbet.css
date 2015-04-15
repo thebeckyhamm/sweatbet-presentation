@@ -171,7 +171,7 @@ body {
   display: inline-block;
   font-size: 0.6em;
   line-height: 1.2em;
-  vertical-align: top; }
+  vertical-align: middle; }
 
 .reveal small * {
   vertical-align: top; }
